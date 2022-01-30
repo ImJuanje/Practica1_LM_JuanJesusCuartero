@@ -1,0 +1,240 @@
+body{
+    background-color: black;
+}
+
+
+.container{
+    margin: 0 auto;
+    width: 1000px;
+    background-color: white;
+    height: 899px;
+    padding-top:4px;
+
+}
+
+.container2{
+    border: 1.5px black solid;
+    margin:0px 5px;
+    padding-top: 0px;
+}
+.container3{
+    margin: 0px 5px;
+    border-left: 1.5px black solid;
+    border-right: 1.5px black solid;
+
+}
+.separador{
+    height: 37px;
+    margin: 2px 0px;
+    background-color: gray;
+    border-top: 1px black solid;
+
+}
+
+.div1
+{
+background-color: rgb(96, 158, 157) ;
+margin-top: 0px;
+
+}
+
+.div2{
+    background-color: rgb(240, 231, 140);   
+    padding: 10px;
+}
+
+.div2 p{
+    
+    border:1px red solid;
+    display: inline-block;
+    background-color: rgb(250, 218, 0);
+
+}
+
+.div3{
+    background-color: rgb(173, 217, 230);   
+    padding: 10px;
+}
+
+.div3 p{
+    
+    border:1px red solid;
+    display: inline-block;
+    background-color: rgb(250, 218, 0);
+
+}
+#e2f3{
+    padding-right: 150px;
+}
+
+.div4{
+    background-color: rgb(173, 217, 230);   
+    padding: 10px;
+    margin: 0px 5px;
+    border-bottom: 1.5px black solid;
+    border-right: 1.5px black solid;
+    border-left: 1.5px black solid;
+}
+.div4 p{
+    
+    border:1px red solid;
+    display: inline-block;
+    background-color: rgb(250, 218, 0);
+    padding-right: 65px;
+
+}
+#e1f5{
+    padding-right: 5px;
+}
+#e2f5{
+    padding-right: 30px;
+}
+#e4f5{
+    padding-right: 110px;
+}
+
+.div5{
+    background-color: rgb(240, 231, 140);
+    height: 35px;
+    margin: 2px 0px;
+    border-right: 1.5px solid white;
+    border-left: 1.5px solid white;
+    
+}
+.div5 p{
+    border:1px red solid;
+    background-color: rgb(250, 218, 0);
+    float: right;
+    margin: 7px 10px;
+    padding-right: 90px;
+}
+
+#divGeneral{
+    background-color: rgb(162,250,166);
+}
+#divPurple{
+    background-color: rgb(218,178 ,241);
+}
+#izq{
+    float:left;
+}
+
+.div6{
+    background-color: rgb(101, 205, 170);
+    height: 35px;
+    margin: 2px 0px;
+    border-right: 1.5px solid white;
+    border-left: 1.5px solid white;
+    
+}
+
+.div6 p{
+    padding: 0px 70px;
+    margin-top: 8px;
+    margin-left:390px;
+    background-color: white;
+    display: inline-block;
+    
+}
+
+.div7{
+    background-color: rgb(138, 225, 235) ;
+    height: 38px;
+    margin: 2px 0px;
+    border-right: 1.5px solid white;
+    border-left: 1.5px solid white;
+    
+
+}
+.div7 p{
+    display: inline-block;
+    border: 1px black solid;
+    background-color: rgb(1,255,255);
+    margin-top: 7px;
+    padding: 0px 65px;
+    
+}
+#e1f15{
+    margin-left: 320px ;
+    margin-right: 20px;
+}
+#e1f16{
+    margin-left: 225px;
+    margin-right: 20px;
+}
+#e3f16{
+    margin-left: 20px;
+}
+
+.last{
+    height: 55px;
+    background-color:rgb(98,155,162);
+    margin: 0px 0px;
+    padding-top: 5px;
+    border-right: 1.5px solid white;
+    border-left: 1.5px solid white;
+    
+}
+
+.last p{
+    background-color: rgb(184,133,15);
+    border:1.5px white solid;
+    margin: 0px 4px ;
+
+}
+#e1f17{
+    margin-bottom: 4px;
+
+}
+
+.first{
+    height: 65px;
+    background-color: rgb(98,155,162);
+    margin: 2px 0px;
+    padding-top: 5px;
+    border-right: 1.5px solid white;
+    border-left: 1.5px solid white;
+
+}
+.second{
+    height: 55px;
+    border: 1.5px white solid;
+    margin: 0px 5px ;
+    display: inline-block;
+    padding: 0px 5px;
+    background-color: rgb(59,158,197);
+    border-right: 1.5px solid white;
+    border-left: 1.5px solid white;
+}
+
+.second p{
+    border: 1.5px white solid;
+    margin-top: 4px;
+    background-color: rgb(184,133,15);
+    padding-right: 395px;
+}
+#block19{
+    padding-left: 515px;
+}
+
+.divEnd{
+    background-color: black;
+    margin:2px 0px;
+    height: 65px;
+    padding-top: 3px;
+}
+.divEnd p{
+    height: 53px;
+    display: inline-block;
+    border:1.5px white solid;
+    background-color: rgb(189,183,107);
+    margin-top: 3px;
+    margin-left: 7px;
+}
+#e1f20{
+    padding-right: 255px;
+}
+#e2f20{
+    padding-right: 605px;
+
+}
